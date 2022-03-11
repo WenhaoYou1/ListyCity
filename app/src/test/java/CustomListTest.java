@@ -2,6 +2,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
+//
 import com.example.simpleparadox.listycity.City;
 import com.example.simpleparadox.listycity.CustomList;
 
